@@ -4,7 +4,7 @@
 
 
 ## About me :mortar_board:
-A scientific researcher in artificial intelligence, multimedia, and data visualization field. Interested in machine learning and computer vision. Seeking to fill a position as an ai engineer.
+A scientific researcher in artificial intelligence, multimedia, and data visualization field. Interested in machine learning and computer vision. Seeking to fill a position as an AI engineer.
 ## What I know :computer:
 - **Competitive Programming**
 	- Python ❤️
